@@ -1,4 +1,4 @@
 # Shopping-Cart
 C++ Group Project
 
-A simple program that resembles a shopping cart made in C++
+A simple program that resembles an online shopping cart made in C++
